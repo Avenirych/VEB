@@ -1,6 +1,12 @@
 html{
     background-color: bisque;
+}    
+
+h1{
+    font-family: 'Teddy Bear';
 }
+
+
 img{
     width: 200px;
 }
@@ -20,18 +26,4 @@ img{
 		url('source/fonts/teddy_bear.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
 		url('source/fonts/teddy_bear.ttf') format('truetype'), /* Safari, Android, iOS */
 		url('source/fonts/teddy_bear.svg#teddy_bear') format('svg'); /* Chrome < 4, Legacy iOS */
-
- @font-face {
-	font-family: 'Arkhip';
-	src: url('source/fonts/arkhip.eot'); /* IE 9 Compatibility Mode */
-	src: url('source/fonts/arkhip.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-		url('source/fonts/arkhip.woff2') format('woff2'), /* Super Modern Browsers */
-		url('source/fonts/arkhip.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-		url('source/fonts/arkhip.ttf') format('truetype'), /* Safari, Android, iOS */
-		url('source/fonts/arkhip.svg#arkhip') format('svg'); /* Chrome < 4, Legacy iOS */
-}
-
-    }
-hi{
-    font-family: 'Arkhip';
 }
